@@ -1,2 +1,2 @@
 # Toxic-comments-detection
-This is a code template from the Jigsaw competition for multilingual toxic comments detection
+The multilingual bert model finetuned on 6 langauges to detect toxic comments in texts.
